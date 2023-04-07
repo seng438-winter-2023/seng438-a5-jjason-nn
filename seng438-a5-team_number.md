@@ -37,6 +37,19 @@ Reliability growth analysis is a useful tool for analyzing the reliability of a 
 
 # 
 
+## Discussion of the Advantages and Disadvantages of Reliability Demonstration Chart (RDC)
+
+A Reliability Demonstration Chart (RDC) is a graphical tool used to assess a system's reliability. It has the following advantages and disadvantages:
+
+**Advantages:**
+- RDC is an easy way to assess system reliability. The ease of assembling a spreadsheet or locating a tool for plotting test data to determine the performance of the system under test (SUT) over time is one of the benefits of RDC. In addition, generating and analyzing the plots does not require a significant amount of time, making this method of determining system reliability efficient.
+- The RDC graphs are visually intuitive and allow developers to identify SUT reliability trends with relative ease.
+
+**Disadvantages:**
+- The reliability of a system cannot be quantified using RDC. As a result, it may be difficult for developers to make decisions or draw conclusions about the system's overall reliability. Although RDC plots are useful for seeing patterns in reliability, they do not provide a precise metric for assessing the reliability of the system.
+- Another limitation of RDC is the difficulty in calculating the Mean Time to Failure (MTTF), which can be both time-consuming and difficult. A meticulous analysis of the data and a series of calculations are required to determine the appropriate MTTF value. It can be difficult to determine the most appropriate value when there is insufficient information. This process can be tedious and necessitates a significant investment of time and resources.
+
+
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
