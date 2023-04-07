@@ -17,6 +17,21 @@ In this lab, we used reliability assessment tools to look at integration test da
 # Assessment Using Reliability Growth Testing 
 
 
+## Discussion of the Advantages and Disadvantages of Reliability Growth Analysis
+
+Reliability growth analysis is a useful tool for analyzing the reliability of a system under test (SUT), and it has both advantages and disadvantages.
+
+**Advantages:**
+- One of the main advantages of reliability growth analysis is that it provides insight into how the software's reliability evolves over time. Developers can see whether the software's reliability is increasing or decreasing, allowing them to make more informed decisions regarding software development and maintenance.
+- Using the graphs produced by a reliability growth analysis, which depicts any time-dependent trends, we can make decisions based on the past behaviour of our data and predict its future behaviour.
+- The results of reliability growth analysis make it simple to identify and examine changes at a specific point in time, assisting developers in identifying and examining the impact of those changes on the project's development.
+
+**Disadvantages: **
+- To be accurate, reliability growth analysis necessitates a large amount of failure data. In the absence of sufficient failure data, the analysis may not provide an accurate depiction of the system's reliability, leading to erroneous decisions.
+- Reliability growth analysis makes the assumption that, apart from changes brought on by failure correction, the system in which the failures were discovered changes very little or not at all. Unreported failures or major changes to the program might lead to incorrect failure statistics, meaningless insights, or poor decisions.
+- The process of making the graphs required for reliability growth analysis is often tedious and time-consuming. It can also be confusing and require extensive knowledge to produce reliable results, particularly when using multiple tools with the same data.
+- The prediction models used in reliability growth analysis can differ depending on the mathematical functions used to determine the system's target failure, resulting in different results for different models.
+
 
 # Assessment Using Reliability Demonstration Chart 
 
