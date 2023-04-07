@@ -2,18 +2,20 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group \#:17    |     
+| -------------- |
+| Student Names: |    
+| Ajay Arumugam  |     
+| Haseeb Khan    |     
+| Sadia Khandaker|
+| Jason Nguyen   |
 
 # Introduction
 
-# 
 
 # Assessment Using Reliability Growth Testing 
+
+
 
 # Assessment Using Reliability Demonstration Chart 
 
