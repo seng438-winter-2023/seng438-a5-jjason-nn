@@ -16,6 +16,16 @@ In this lab, we used reliability assessment tools to look at integration test da
 
 # Assessment Using Reliability Growth Testing 
 
+## Result of Model Comparison (Selecting Top Two Models)
+
+
+## Result of Range Analysis (An Explanation of Which Part of Data Is Good for Proceeding With the Analysis)
+
+
+## Plots for Failure Rate and Reliability of the SUT for the Test Data
+
+## Discussion of Decision Making Given a Target Failure Rate
+
 
 ## Discussion of the Advantages and Disadvantages of Reliability Growth Analysis
 
@@ -35,7 +45,9 @@ Reliability growth analysis is a useful tool for analyzing the reliability of a 
 
 # Assessment Using Reliability Demonstration Chart 
 
-# 
+## 3 Plots for MTTFMin, Twice and Half of It for Your Test Data
+
+## Explain Your Evaluation and Justification of How You Decide The MTTFmin
 
 ## Discussion of the Advantages and Disadvantages of Reliability Demonstration Chart (RDC)
 
