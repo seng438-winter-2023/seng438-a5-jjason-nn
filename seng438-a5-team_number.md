@@ -73,3 +73,5 @@ A Reliability Demonstration Chart (RDC) is a graphical tool used to assess a sys
 # Difficulties encountered, challenges overcome, and lessons learned
 
 # Comments/feedback on the lab itself
+
+The lab would have been improved if the instructions had been clearer and more comprehensive, as our group was unsure of the intended objectives and methodology. In addition, we encountered significant challenges in completing the lab due to the compatibility issues associated with different operating systems. This issue was exacerbated by the fact that the software we had to use was extremely outdated, making it incompatible with modern operating systems. Future lab assignments should take into account the diverse operating systems of students and provide clear, concise, and thorough instructions in order to maximize their effectiveness and foster a deeper understanding of the concepts being taught.
